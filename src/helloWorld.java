@@ -2,7 +2,7 @@ public class helloWorld {
     public static void main(String[] args) {
 
         System.out.println("HELLO WORLD");
-        
+        System.out.println("New changes");
 
      /*   int a=10;
         int b=20;
