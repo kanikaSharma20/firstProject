@@ -19,5 +19,7 @@ public class TimeCounter {
 
         System.out.println(hours+"hrs:"+minutes+"min:"+seconds+"sec:"+milliseconds+"milliseconds");
 
+        System.out.println("adding more things for fun");
+
     }
 }
